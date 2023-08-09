@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "UNET_Out_of_Pocket_Calculator", "UNET_Out_of_Pocket_Calculator\UNET_Out_of_Pocket_Calculator.vbproj", "{C92DB122-39E6-4FD6-847E-51D8820CD23F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C92DB122-39E6-4FD6-847E-51D8820CD23F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C92DB122-39E6-4FD6-847E-51D8820CD23F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C92DB122-39E6-4FD6-847E-51D8820CD23F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C92DB122-39E6-4FD6-847E-51D8820CD23F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DA7EDD4-113F-40D4-AFED-83B135C7C4F7}
+	EndGlobalSection
+EndGlobal
